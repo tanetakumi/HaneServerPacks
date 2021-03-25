@@ -18,7 +18,7 @@ HELIOS_DATA_FOLDER=C:\Users\user\AppData\Roaming\Helios Launcher
 
 https://github.com/tanetakumi/HaneServerPacksAssets
 
-[Image](https://raw.githubusercontent.com/tanetakumi/HaneServerPacksAssets/main/background.jpg)
+[Image](https://raw.githubusercontent.com/tanetakumi/HaneServerPacksAssets/main/background.jpg) , 
 [News](https://raw.githubusercontent.com/tanetakumi/HaneServerPacksAssets/main/news.rss)
 
 ## Discord 

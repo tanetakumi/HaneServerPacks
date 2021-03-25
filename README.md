@@ -2,7 +2,7 @@
 
 はね鯖ランチャーのためのDistribution.json を作成します。 
 
-Nebula Github [here][https://github.com/dscalzi/Nebula].
+Nebula Github [here](https://github.com/dscalzi/Nebula)
 
 ## .env file
 

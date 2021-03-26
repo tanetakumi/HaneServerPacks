@@ -341,16 +341,6 @@
           ]
         },
         {
-          "id": "net.serveron.hane.haneessential:hane:1.3.2@jar",
-          "name": "HaneServer",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9440,
-            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/required/hane-1.3.2.jar",
-            "MD5": "8230c138f02aa24e996c8c3ec3b5ebbf"
-          }
-        },
-        {
           "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
           "name": "OptiFine",
           "type": "ForgeMod",

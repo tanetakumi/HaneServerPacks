@@ -356,8 +356,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5924305,
-            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G7.jar",
+            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G7.jar",
             "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         }
       ]

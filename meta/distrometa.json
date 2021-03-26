@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///C:/Users/nutan/Desktop/Minecraft/HaneServerPacks/Distribution/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacksAssets/main/news.rss",
+    "discord": {
+      "clientId": "822768669058007041",
+      "smallImageText": "はね鯖",
+      "smallImageKey": "launcher"
+    }
+  }
+}

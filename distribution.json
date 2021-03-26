@@ -341,12 +341,22 @@
           ]
         },
         {
+          "id": "net.serveron.hane.haneessential:hane:1.3.2@jar",
+          "name": "HaneServer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9440,
+            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/required/hane-1.3.2.jar",
+            "MD5": "c955bd29713bbef862786cbf9f7250d3"
+          }
+        },
+        {
           "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
             "size": 5924305,
-            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G7%20(1).jar",
+            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G7.jar",
             "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
           }
         }

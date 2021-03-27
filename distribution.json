@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://raw.githubusercontent.com/tanetakumi/test/main/news2.rss",
+  "rss": "https://raw.githubusercontent.com/tanetakumi/test/main/news.rss",
   "discord": {
     "clientId": "822768669058007041",
     "smallImageText": "はね鯖",

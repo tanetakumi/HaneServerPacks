@@ -246,6 +246,16 @@
           }
         },
         {
+          "id": "net.serveron.hane.haneessentialbackver:hane:1.0-SNAPSHOT@jar",
+          "name": "HaneEssentialBackVer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3144,
+            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/industrial-1.12.2/forgemods/required/HaneEssentialBackVer-1.0-SNAPSHOT.jar",
+            "MD5": "36dec94da02fb58e3cd05a137c37380b"
+          }
+        },
+        {
           "id": "ic2.core:ic2:2.8.221-ex112@jar",
           "name": "IndustrialCraft 2",
           "type": "ForgeMod",
@@ -269,13 +279,13 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.11.2_HD_U_G5@jar",
-          "name": "OptiFine 1.11.2_HD_U_G5",
+          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
+          "name": "OptiFine 1.12.2_HD_U_F5",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2658083,
-            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/industrial-1.12.2/forgemods/optionalon/OptiFine_1.11.2_HD_U_G5.jar",
-            "MD5": "8de776c1e46533cd46970a7d211472fc"
+            "size": 2598821,
+            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/industrial-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_F5.jar",
+            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
           },
           "required": {
             "value": false

@@ -11,7 +11,7 @@
       "id": "industrial-1.12.2",
       "name": "工業サーバー",
       "description": "工業しようぜ",
-      "icon": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/industrial-1.12.2/industrial-1.12.2-1.12.2.png",
+      "icon": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/industrial-1.12.2/industrial-1.12.2.png",
       "version": "1.0.0",
       "address": "hane.server-on.net",
       "minecraftVersion": "1.12.2",
@@ -246,13 +246,23 @@
           }
         },
         {
+          "id": "net.xalcon:energyconverters:1.3.7.30@jar",
+          "name": "Energy Converters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 158910,
+            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/industrial-1.12.2/forgemods/required/energyconverters_1.12.2-1.3.7.30.jar",
+            "MD5": "54077d32d7075a2c6c8e1991e766102a"
+          }
+        },
+        {
           "id": "net.serveron.hane.haneessentialbackver:hane:1.0-SNAPSHOT@jar",
           "name": "HaneEssentialBackVer",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3144,
-            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/industrial-1.12.2/forgemods/required/HaneEssentialBackVer-1.0-SNAPSHOT.jar",
-            "MD5": "36dec94da02fb58e3cd05a137c37380b"
+            "size": 3159,
+            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/industrial-1.12.2/forgemods/required/hane-1.12.2-1.0.0.jar",
+            "MD5": "a9bc40d5ebbaeea51f3fc7a84a9121dd"
           }
         },
         {
@@ -627,13 +637,13 @@
           ]
         },
         {
-          "id": "net.serveron.hane.haneessential:hane:1.3.2@jar",
+          "id": "net.serveron.hane.haneessential:hane:1.0.0@jar",
           "name": "HaneServer",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9440,
-            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/required/hane-1.3.2.jar",
-            "MD5": "c955bd29713bbef862786cbf9f7250d3"
+            "size": 9260,
+            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/required/hane-1.16.5-1.0.0.jar",
+            "MD5": "1680cff8a937db9bd4f2c07cef2655b2"
           }
         },
         {
@@ -669,11 +679,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5924305,
-            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G7.jar",
+            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G7.jar",
             "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         }
       ]

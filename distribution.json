@@ -664,13 +664,13 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8_pre11@jar",
+          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6040147,
-            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/optionalon/preview_OptiFine_1.16.5_HD_U_G8_pre11.jar",
-            "MD5": "b124e60fd64d6ea3885a8a0be38271e0"
+            "size": 5924305,
+            "url": "https://raw.githubusercontent.com/tanetakumi/HaneServerPacks/main/servers/vanilla-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
           },
           "required": {
             "value": false

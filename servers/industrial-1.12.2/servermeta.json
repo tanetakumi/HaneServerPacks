@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/Users/nutan/Desktop/Minecraft/Launcher/HaneServerPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "工業サーバー",
+    "description": "工業しようぜ",
+    "address": "hane.server-on.net",
+    "discord": {
+      "shortId": "工業鯖",
+      "largeImageText": "工業鯖",
+      "largeImageKey": "industrial"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2854"
+  },
+  "untrackedFiles": []
+}

@@ -2,12 +2,12 @@
   "$schema": "file:///C:/Users/nutan/Desktop/Minecraft/HaneServerPacks/Distribution/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "vanilla (Minecraft 1.16.5)",
-    "description": "vanilla Running Minecraft 1.16.5 (Forge v36.1.0)",
-    "address": "localhost:25565",
+    "name": "生活鯖(はね鯖)",
+    "description": "はね鯖の中の生活鯖だよ～",
+    "address": "hane.server-on.net:25565",
     "discord": {
       "shortId": "バニラ1.16.5",
-      "largeImageText": "バニラ1.16.5",
+      "largeImageText": "生活鯖",
       "largeImageKey": "vanilla"
     },
     "mainServer": true,
